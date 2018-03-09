@@ -17,4 +17,4 @@ This is a project to implement a web-based collaborative code editor which suppo
 * Nginx
 * make
 
-##for more details, check cliens and observable folders##
+***for more details, check cliens and observable folders***
